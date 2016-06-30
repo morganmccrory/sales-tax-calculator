@@ -1,4 +1,5 @@
-*Sales Tax Calculator*
+**Sales Tax Calculator**
+
 Calculate the sales tax for items listed in .txt files.
 
 Instructions to run the program:
